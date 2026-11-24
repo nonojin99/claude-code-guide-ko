@@ -1,0 +1,3 @@
+MIT License
+
+marked.min.js: Copyright (c) 2011-2024, Christopher Jeffrey (MIT)
